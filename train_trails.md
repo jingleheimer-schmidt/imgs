@@ -16,9 +16,9 @@ This mod adds a glowing colored trail to trains as they drive around
 ---------------
 Companion mod to:  
 
-[![Player Trails][trails_img]][trails_link] &nbsp; &nbsp; &nbsp; [![Rainbow Trains][trains_img]][trains_link] &nbsp; &nbsp; &nbsp; &nbsp;  [![Rainbow Character][character_img]][character_link] &nbsp; &nbsp; &nbsp; &nbsp;  [![Rainbow Vehicles][vehicle_img]][vehicle_link]
+[![Player Trails][trails_img]][trails_link] &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Rainbow Trains][trains_img]][trains_link] &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [![Rainbow Character][character_img]][character_link] &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [![Rainbow Vehicles][vehicle_img]][vehicle_link]
 
-[Player Trails](https://mods.factorio.com/mod/player-trails) &nbsp; &nbsp; &nbsp; &nbsp; [Rainbow Trains](https://mods.factorio.com/mod/rainbow-trains) &nbsp; &nbsp; &nbsp;  [Rainbow Character](https://mods.factorio.com/mod/rainbow-character) &nbsp; &nbsp; [Rainbow Vehicles](https://mods.factorio.com/mod/rainbow-vehicles)
+[Player Trails](https://mods.factorio.com/mod/player-trails) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Rainbow Trains](https://mods.factorio.com/mod/rainbow-trains) &nbsp; &nbsp; &nbsp; &nbsp;  [Rainbow Character](https://mods.factorio.com/mod/rainbow-character) &nbsp; &nbsp; [Rainbow Vehicles](https://mods.factorio.com/mod/rainbow-vehicles)
 
 [trails_link]: https://mods.factorio.com/mod/player-trails "Player Trails"
 [trails_img]: https://github.com/jingleheimer-schmidt/imgs/blob/a635e53be8abe0a5f707c73914898db8fef2f232/icons/player_trails.png?raw=true
